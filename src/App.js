@@ -74,7 +74,7 @@ function Image() {
 function Link() {
   return (
     <div className="App">
-      <a href="WWW.google.com">
+      <a href="https://google.com">
         It's just a link that takes you to www.Google.com
       </a>
     </div>
